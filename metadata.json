@@ -1,0 +1,6 @@
+{
+  "name": "Toán 11 - Lấy Lại Gốc & Bí Kíp Lượng Giác",
+  "description": "Nền tảng hỗ trợ học sinh lớp 11 lấy lại gốc kiến thức Toán Học Kỳ 1: Mô phỏng vòng tròn lượng giác tương tác, lộ trình 14 ngày, mẹo ghi nhớ bản chất và gia sư hướng dẫn từng bước.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
